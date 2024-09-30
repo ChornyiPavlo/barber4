@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://pin-up.barbershopmengrb.click/sitemap.xml
+Host: pin-up.barbershopmengrb.click
